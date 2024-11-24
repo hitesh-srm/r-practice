@@ -1,0 +1,17 @@
+# Assign 10 values to a variable
+my_values <- c(5, 10, 15, 20, 25, 30, 35, 40, 45, 500)
+
+# Find the length
+length_of_values <- length(my_values)
+
+# Calculate the sum
+sum_of_values <- sum(my_values)
+
+# Calculate the mean
+mean_of_values <- mean(my_values)
+
+# Print the results
+cat("Length:", length_of_values, "\n")
+cat("Sum:", sum_of_values, "\n")
+cat("Mean:", mean_of_values, "\n")
+
